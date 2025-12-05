@@ -18,7 +18,7 @@
 
 ## 📖 简介 | Introduction
 
-**Emby Subscription Manager** 是一个连接 **TMDB** (元数据) 和 **Emby** (媒体服务器) 的现代化订阅管理工具。
+**Emby Subscription Manager** 是一个使用python后端以及vue3前端的前后端分离的，连接 **TMDB** (元数据) 和 **Emby** (媒体服务器) 的现代化订阅管理工具。
 
 它允许用户浏览热门影视内容，查看 Emby 库内的实时状态，并提交订阅申请。管理员审批通过后，系统将自动监测 Emby 入库情况并通知用户。系统采用模块化架构设计，旨在提供流畅的媒体发现与订阅体验。
 
