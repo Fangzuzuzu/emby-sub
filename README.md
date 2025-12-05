@@ -47,7 +47,7 @@
 
 | 媒体详情页 | 申请管理后台 |
 | :---: | :---: |
-| <img src="docs/images/screenshot_2.png" alt="Details" width="100%"> | <img src="docs/images/screenshot_3.png" alt="Admin" width="100%"> |
+| <img src="docs/images/screenshot_3.png" alt="Details" width="100%"> | <img src="docs/images/screenshot_2.png" alt="Admin" width="100%"> |
 
 | 媒体信息展示 | 移动端适配 |
 | :---: | :---: |
