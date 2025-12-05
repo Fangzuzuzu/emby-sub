@@ -47,9 +47,9 @@
 
 | 媒体详情页 | 申请管理后台 |
 | :---: | :---: |
-| <img src="docs/images/screenshot_2.png" alt="Details" width="100%"> | <img src="docs/images/screenshot_3.png" alt="Admin" width="100%"> |
+| <img src="docs/images/screenshot_3.png" alt="Details" width="100%"> | <img src="docs/images/screenshot_2.png" alt="Admin" width="100%"> |
 
-| 搜索与发现 | 移动端适配 |
+| 搜索与发现 |
 | :---: | :---: |
 | <img src="docs/images/screenshot_4.png" alt="Search" width="100%"> | <img src="docs/images/screenshot_1.png" alt="Mobile" width="100%"> |
 
