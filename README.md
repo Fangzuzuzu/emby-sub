@@ -49,7 +49,7 @@
 | :---: | :---: |
 | <img src="docs/images/screenshot_2.png" alt="Details" width="100%"> | <img src="docs/images/screenshot_3.png" alt="Admin" width="100%"> |
 
-| 搜索与发现 | 移动端适配 |
+| 媒体信息展示 | 移动端适配 |
 | :---: | :---: |
 | <img src="docs/images/screenshot_4.png" alt="Search" width="100%"> | <img src="docs/images/screenshot_1.png" alt="Mobile" width="100%"> |
 
