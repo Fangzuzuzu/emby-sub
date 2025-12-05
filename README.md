@@ -55,19 +55,19 @@
 
 ## 🛠️ 技术栈 | Tech Stack
 
-### Frontend
-- **Framework**: Vue 3 + Vite
-- **Language**: TypeScript
-- **UI Library**: Element Plus
-- **State Management**: Pinia
-- **HTTP Client**: Axios
+### 前端 (Frontend)
+- **框架**: Vue 3 + Vite
+- **语言**: TypeScript
+- **UI 组件库**: Element Plus
+- **状态管理**: Pinia
+- **HTTP 客户端**: Axios
 
-### Backend
-- **Framework**: FastAPI
-- **Language**: Python 3.10+
-- **Database**: SQLite + SQLModel
-- **Scheduler**: APScheduler
-- **Integrations**: TMDB API, Emby Server API
+### 后端 (Backend)
+- **框架**: FastAPI
+- **语言**: Python 3.10+
+- **数据库**: SQLite + SQLModel
+- **定时任务**: APScheduler
+- **集成**: TMDB API, Emby Server API
 
 ## 🚀 快速开始 | Getting Started
 
