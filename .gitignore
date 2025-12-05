@@ -1,0 +1,25 @@
+# General
+.DS_Store
+.env
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# Directories
+node_modules/
+dist/
+build/
+venv/
+.venv/
+__pycache__/
+.pytest_cache/
+
+.idea/
+.vscode/
+
+# Specific files
+back-end/app.db
+app.db
+back-end/.env
+emby-subscription-manager-plan.plan.md

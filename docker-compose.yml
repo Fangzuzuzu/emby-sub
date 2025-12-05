@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  emby-manager:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: embysub
+    ports:
+      - "8000:8000"
+    volumes:
+      # Persist SQLite database
+      - ./back-end/app.db:/app/app.db
+    env_file:
+      - ./back-end/.env
+    environment:
+      - DATABASE_URL=sqlite:///./app.db
+      - PYTHONUNBUFFERED=1
+    restart: unless-stopped
